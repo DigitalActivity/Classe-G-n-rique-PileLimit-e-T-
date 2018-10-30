@@ -1,4 +1,4 @@
-# Classe-G-n-rique-PileLimit-e-T-
+# Classe Générique PileLimitée<T>
 Classes Génériques
 
 - Cours de Méthodologies de programmation
